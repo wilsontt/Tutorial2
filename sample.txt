@@ -1,3 +1,5 @@
 連猴子都懂的Git命令
 
 對要添加到提交的檔案按右鍵，點選Add to Index，然後選擇的檔案就會移到上方的Files staged in the index。
+
+提交成功的話，只要點選master分支就會看到剛剛新增的提交。
